@@ -1,0 +1,10 @@
+# Cocos Creator
+Library/
+Temp/
+local/
+logs/
+*.log
+.DS_Store
+node_modules/
+*.user.js
+*.tmp
