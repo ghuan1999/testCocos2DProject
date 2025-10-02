@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "united-kingdom",
+    "texture": "bdcf121e-ec9f-48fa-aeb1-f84a7f5ab407",
+    "atlas": "",
+    "rect": [
+      16,
+      76,
+      480,
+      360
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

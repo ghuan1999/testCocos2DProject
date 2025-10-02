@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "squares",
+    "texture": "94f3189d-63a0-400f-aacb-3db0229a04b1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      219,
+      230
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      219,
+      230
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
